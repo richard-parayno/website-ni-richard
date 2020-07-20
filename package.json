@@ -1,0 +1,23 @@
+{
+  "name": "website-ni-richard",
+  "version": "1.0.0",
+  "description": "WEBSITE KO NGA PALA -- WIP",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard-parayno/website-ni-richard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richard-parayno/website-ni-richard/issues"
+  },
+  "homepage": "https://github.com/richard-parayno/website-ni-richard#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
