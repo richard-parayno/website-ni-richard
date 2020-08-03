@@ -1,7 +1,7 @@
 ---
 postTitle: Conversational Assistants in the time of Coronavirus
 postDescription: With more and more companies starting to digitally transform, I share my thoughts on how Conversational Assistants can play a role in supporting these companies.
-date: 2020-04-30
+date: "2020-04-30"
 ---
 
 # Conversational Assistants in the time of Coronavirus
