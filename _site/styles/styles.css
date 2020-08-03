@@ -22,7 +22,7 @@ body {
 
 }
 
-.intro, .socials {
+.intro, .socials, .latestblog {
   padding-top: 2em;
   padding-bottom: 2em;
 }
@@ -53,6 +53,16 @@ body {
 }
 
 .socials > .links a:hover {
+  text-decoration: underline;
+}
+
+.latestblog a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #33A2E1;
+}
+
+.latestblog a:hover {
   text-decoration: underline;
 }
 

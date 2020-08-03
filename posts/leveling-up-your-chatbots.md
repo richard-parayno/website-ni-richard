@@ -1,6 +1,7 @@
 ---
 postTitle: Leveling Up Your Chatbots with Conversation Design
 postDescription: I wrote how you can leverage Conversation Design in better Chat or Voice Experiences.
+date: 2019-11-07
 ---
 
 # Leveling Up Your Chatbots with Conversation Design

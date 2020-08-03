@@ -35,8 +35,10 @@ layout: base
           a(href="https://twitter.com/richardparayno" target=_blank) Twitter
 
     .latestblog
-      for post in collections.posts
-        h2
-          a(href=post.url) post.data.postTitle
-        em
-          | post.date | date: "%Y-%m-%d"
+      each post in collections.posts
+        h2.postTitle
+          a(href=post.url target=_blank) #{post.data.postTitle}
+        p.postDescription
+          | #{post.data.postDescription}
+        p.postDate
+          | #{post.date} 
